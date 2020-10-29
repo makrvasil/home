@@ -1,4 +1,4 @@
-Natural language processing [NLP](https://makrvasil.github.io/nlp/)
+Natural language processing [NLP](https://makrvasil.github.io/home/nlp)
 
 ## Welcome to GitHub Pages
 
