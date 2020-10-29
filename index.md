@@ -1,4 +1,4 @@
-Natural language processing [NLP](https://github.com/makrvasil/vasilis.github.io/edit/gh-pages/nlp.md)
+Natural language processing [NLP](https://makrvasil.github.io/nlp/)
 
 ## Welcome to GitHub Pages
 
